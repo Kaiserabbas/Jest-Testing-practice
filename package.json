@@ -1,0 +1,19 @@
+{
+  "name": "jest-testing-practice",
+  "version": "1.0.0",
+  "description": "A few practical tests for JavaScript functions using the Jest library. I'm following follow the AAA pattern to make your tests easier for other developers to read and understand.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.22.9",
+    "@babel/preset-env": "^7.22.9",
+    "babel-jest": "^29.6.1",
+    "jest": "^29.6.1"
+  }
+}
